@@ -1,1 +1,1 @@
-web: gunicorn mine.wsgi
+web: gunicorn app.wsgi
